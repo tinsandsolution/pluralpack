@@ -53,9 +53,19 @@ Take a question like, "Which system minister should we elect?"
 
 The issues with first-past-the-post voting are [well-documented.](https://electionscience.org/library/the-spoiler-effect/).
 
-Implementing system elections and approval voting will likely involve multiple modals.
+Implementing system elections and approval voting will likely involve multiple steps.
 
+#### Stage One: Self-Self-Nomination
 
+Given a complete set of identities of a given system, an identity can nominate themselves to be in the running for election.
+
+#### Stage Two: Voting
+
+Each identity will vote, shown a slate of candidates. An identity can allocate up to three votes per candidate. 
+
+#### Stage Three: Resolving
+
+Upon election, a system minister page will be available on the application. It will merely be a link to the identity's biography page, with a "System Minister" heading.
 
 ## Toots
 
